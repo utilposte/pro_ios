@@ -1,0 +1,430 @@
+PODS:
+  - Accengage-iOS-SDK (6.3.2)
+  - ActiveLabel (1.0.1)
+  - Adjust (4.17.2):
+    - Adjust/Core (= 4.17.2)
+  - Adjust/Core (4.17.2)
+  - AFNetworking (2.5.1):
+    - AFNetworking/NSURLConnection (= 2.5.1)
+    - AFNetworking/NSURLSession (= 2.5.1)
+    - AFNetworking/Reachability (= 2.5.1)
+    - AFNetworking/Security (= 2.5.1)
+    - AFNetworking/Serialization (= 2.5.1)
+    - AFNetworking/UIKit (= 2.5.1)
+  - AFNetworking/NSURLConnection (2.5.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.1)
+  - AFNetworking/Security (2.5.1)
+  - AFNetworking/Serialization (2.5.1)
+  - AFNetworking/UIKit (2.5.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - Apollo (0.9.5):
+    - Apollo/Core (= 0.9.5)
+  - Apollo/Core (0.9.5)
+  - AppDynamicsAgent (50.1.1610)
+  - ATInternet-iOS-ObjC-SDK (2.2.7):
+    - ATInternet-iOS-ObjC-SDK/AppExtension (= 2.2.7)
+    - ATInternet-iOS-ObjC-SDK/iOS (= 2.2.7)
+    - ATInternet-iOS-ObjC-SDK/Res (= 2.2.7)
+  - ATInternet-iOS-ObjC-SDK/AppExtension (2.2.7):
+    - ATInternet-iOS-ObjC-SDK/Res
+  - ATInternet-iOS-ObjC-SDK/iOS (2.2.7):
+    - ATInternet-iOS-ObjC-SDK/Res
+  - ATInternet-iOS-ObjC-SDK/Res (2.2.7)
+  - Base64 (1.1.2)
+  - CardIO (5.4.1)
+  - CocoaLumberjack (3.5.2):
+    - CocoaLumberjack/Core (= 3.5.2)
+  - CocoaLumberjack/Core (3.5.2)
+  - CodableAlamofire (1.1.1):
+    - Alamofire (~> 4.0)
+  - Firebase (5.19.0):
+    - Firebase/Core (= 5.19.0)
+  - Firebase/Core (5.19.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 5.8.0)
+  - Firebase/CoreOnly (5.19.0):
+    - FirebaseCore (= 5.4.0)
+  - Firebase/Database (5.19.0):
+    - Firebase/CoreOnly
+    - FirebaseDatabase (= 5.1.1)
+  - FirebaseAnalytics (5.8.0):
+    - FirebaseCore (~> 5.4)
+    - FirebaseInstanceID (~> 3.8)
+    - GoogleAppMeasurement (= 5.8.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 5.2)
+    - GoogleUtilities/MethodSwizzler (~> 5.2)
+    - GoogleUtilities/Network (~> 5.2)
+    - "GoogleUtilities/NSData+zlib (~> 5.2)"
+    - nanopb (~> 0.3)
+  - FirebaseAuthInterop (1.0.0)
+  - FirebaseCore (5.4.0):
+    - GoogleUtilities/Environment (~> 5.2)
+    - GoogleUtilities/Logger (~> 5.2)
+  - FirebaseDatabase (5.1.1):
+    - FirebaseAuthInterop (~> 1.0)
+    - FirebaseCore (~> 5.2)
+    - leveldb-library (~> 1.18)
+  - FirebaseInstanceID (3.8.0):
+    - FirebaseCore (~> 5.2)
+    - GoogleUtilities/Environment (~> 5.2)
+    - GoogleUtilities/UserDefaults (~> 5.2)
+  - FSCalendar (2.8.0)
+  - GoogleAppMeasurement (5.8.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 5.2)
+    - GoogleUtilities/MethodSwizzler (~> 5.2)
+    - GoogleUtilities/Network (~> 5.2)
+    - "GoogleUtilities/NSData+zlib (~> 5.2)"
+    - nanopb (~> 0.3)
+  - GoogleUtilities/AppDelegateSwizzler (5.5.0):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (5.5.0)
+  - GoogleUtilities/Logger (5.5.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (5.5.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (5.5.0):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (5.5.0)"
+  - GoogleUtilities/Reachability (5.5.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (5.5.0):
+    - GoogleUtilities/Logger
+  - iAdvize (1.3.2):
+    - Apollo (~> 0.9.3)
+    - JWT (~> 3.0.0-beta.11)
+    - MessageKit (~> 2.0.0)
+    - SwiftGraylog (~> 1.0)
+  - IQKeyboardManagerSwift (6.2.1)
+  - JWT (3.0.0-beta.11):
+    - Base64 (~> 1.1.2)
+  - KeychainSwift (13.0.0)
+  - leveldb-library (1.20)
+  - libextobjc (0.6):
+    - libextobjc/EXTADT (= 0.6)
+    - libextobjc/EXTConcreteProtocol (= 0.6)
+    - libextobjc/EXTKeyPathCoding (= 0.6)
+    - libextobjc/EXTNil (= 0.6)
+    - libextobjc/EXTSafeCategory (= 0.6)
+    - libextobjc/EXTScope (= 0.6)
+    - libextobjc/EXTSelectorChecking (= 0.6)
+    - libextobjc/EXTSynthesize (= 0.6)
+    - "libextobjc/NSInvocation+EXT (= 0.6)"
+    - "libextobjc/NSMethodSignature+EXT (= 0.6)"
+    - libextobjc/RuntimeExtensions (= 0.6)
+    - libextobjc/UmbrellaHeader (= 0.6)
+  - libextobjc/EXTADT (0.6):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTConcreteProtocol (0.6):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTKeyPathCoding (0.6):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTNil (0.6):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSafeCategory (0.6):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTScope (0.6):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSelectorChecking (0.6):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSynthesize (0.6):
+    - libextobjc/RuntimeExtensions
+  - "libextobjc/NSInvocation+EXT (0.6)":
+    - libextobjc/RuntimeExtensions
+  - "libextobjc/NSMethodSignature+EXT (0.6)":
+    - libextobjc/RuntimeExtensions
+  - libextobjc/RuntimeExtensions (0.6)
+  - libextobjc/UmbrellaHeader (0.6)
+  - LPColissimo (0.1.0):
+    - Alamofire
+    - CodableAlamofire
+    - LPSharedMCM (~> 0.1.0)
+  - LPColissimoUI (0.1.0):
+    - ATInternet-iOS-ObjC-SDK
+    - LPColissimo (~> 0.1.0)
+  - LPSharedLOC (0.1.0):
+    - AFNetworking (= 2.5.1)
+  - LPSharedMCM (0.1.0):
+    - AFNetworking (= 2.5.1)
+    - CocoaLumberjack
+    - libextobjc
+    - Mantle (= 1.0.0)
+    - Masonry (= 0.6.4)
+    - MyEnvironmentConfig
+    - OLGhostAlertView
+    - OMGHTTPURLRQ
+    - PromiseKit (~> 1.7.6)
+  - LPSharedSUIVI (0.1.0):
+    - Alamofire
+  - Mantle (1.0):
+    - libextobjc/EXTKeyPathCoding
+    - libextobjc/EXTScope
+  - Masonry (0.6.4)
+  - MaterialComponents/AnimationTiming (56.0.0)
+  - MaterialComponents/Palettes (56.0.0)
+  - MaterialComponents/private/Application (56.0.0)
+  - MaterialComponents/private/Math (56.0.0)
+  - MaterialComponents/TextFields (56.0.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Palettes
+    - MaterialComponents/private/Math
+    - MaterialComponents/Typography
+    - MDFInternationalization
+  - MaterialComponents/Typography (56.0.0):
+    - MaterialComponents/private/Application
+  - MDFInternationalization (2.0.0)
+  - MessageInputBar/Core (0.4.1)
+  - MessageKit (2.0.0):
+    - MessageInputBar/Core
+  - MyEnvironmentConfig (1.0.0)
+  - nanopb (0.3.901):
+    - nanopb/decode (= 0.3.901)
+    - nanopb/encode (= 0.3.901)
+  - nanopb/decode (0.3.901)
+  - nanopb/encode (0.3.901)
+  - OLGhostAlertView (1.8.1)
+  - OMGHTTPURLRQ (3.2.4):
+    - OMGHTTPURLRQ/RQ (= 3.2.4)
+  - OMGHTTPURLRQ/FormURLEncode (3.2.4)
+  - OMGHTTPURLRQ/RQ (3.2.4):
+    - OMGHTTPURLRQ/FormURLEncode
+    - OMGHTTPURLRQ/UserAgent
+  - OMGHTTPURLRQ/UserAgent (3.2.4)
+  - PayPal-iOS-SDK (2.18.1):
+    - PayPal-iOS-SDK/CardIO (= 2.18.1)
+    - PayPal-iOS-SDK/Core (= 2.18.1)
+  - PayPal-iOS-SDK/CardIO (2.18.1):
+    - CardIO (~> 5.4.1)
+  - PayPal-iOS-SDK/Core (2.18.1)
+  - PromiseKit (1.7.7):
+    - PromiseKit/CALayer (= 1.7.7)
+    - PromiseKit/NSNotificationCenter (= 1.7.7)
+    - PromiseKit/NSURLConnection (= 1.7.7)
+    - PromiseKit/Pause (= 1.7.7)
+    - PromiseKit/UIActionSheet (= 1.7.7)
+    - PromiseKit/UIAlertView (= 1.7.7)
+    - PromiseKit/UIView (= 1.7.7)
+    - PromiseKit/UIViewController (= 1.7.7)
+    - PromiseKit/Until (= 1.7.7)
+    - PromiseKit/When (= 1.7.7)
+  - PromiseKit/CALayer (1.7.7):
+    - PromiseKit/Promise
+  - PromiseKit/NSNotificationCenter (1.7.7):
+    - PromiseKit/Promise
+  - PromiseKit/NSURLConnection (1.7.7):
+    - OMGHTTPURLRQ (~> 3.2)
+    - PromiseKit/Promise
+  - PromiseKit/Pause (1.7.7):
+    - PromiseKit/Promise
+  - PromiseKit/Promise (1.7.7)
+  - PromiseKit/UIActionSheet (1.7.7):
+    - PromiseKit/Promise
+  - PromiseKit/UIAlertView (1.7.7):
+    - PromiseKit/Promise
+  - PromiseKit/UIView (1.7.7):
+    - PromiseKit/Promise
+  - PromiseKit/UIViewController (1.7.7):
+    - PromiseKit/Promise
+  - PromiseKit/Until (1.7.7):
+    - PromiseKit/Promise
+    - PromiseKit/When
+  - PromiseKit/When (1.7.7):
+    - PromiseKit/Promise
+  - R.swift (4.0.0):
+    - R.swift.Library (~> 4.0.0)
+  - R.swift.Library (4.0.0)
+  - Realm (3.14.0):
+    - Realm/Headers (= 3.14.0)
+  - Realm/Headers (3.14.0)
+  - RealmSwift (3.14.0):
+    - Realm (= 3.14.0)
+  - SwiftGraylog (1.0.0)
+  - SwiftLint (0.31.0)
+  - SwiftyBeaver (1.7.0)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Accengage-iOS-SDK (~> 6.3.0)
+  - ActiveLabel
+  - Adjust
+  - Alamofire
+  - AlamofireImage
+  - AppDynamicsAgent
+  - ATInternet-iOS-ObjC-SDK
+  - Firebase
+  - Firebase/Core
+  - Firebase/Database
+  - FSCalendar
+  - iAdvize
+  - IQKeyboardManagerSwift
+  - KeychainSwift
+  - LPColissimo (from `https://build.bnum.laposte.fr/gitlab/app-mobile/commun/lib-ios/LPSharedColissimoApiClient.git`, branch `us/2771`)
+  - LPColissimoUI (from `https://build.bnum.laposte.fr/gitlab/app-mobile/commun/lib-ios/LPSharedColissimoUI.git`, branch `sprint/5`)
+  - LPSharedLOC (from `https://build.bnum.laposte.fr/gitlab/app-mobile/commun/ios.git`, branch `LPSharedLOC_1.0`)
+  - LPSharedMCM (from `https://build.bnum.laposte.fr/gitlab/app-mobile/commun/ios.git`, branch `LPShared_APPPRO`)
+  - LPSharedSUIVI (from `http://build.bnum.laposte.fr/gitlab/app-mobile/commun/lib-ios/LPSharedSUIVI.git`)
+  - MaterialComponents/TextFields (~> 56.0.0)
+  - PayPal-iOS-SDK
+  - R.swift (~> 4.0.0)
+  - RealmSwift
+  - SwiftLint
+  - SwiftyBeaver
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/Accengage/CocoaPodsSpecs.git:
+    - Accengage-iOS-SDK
+  https://github.com/cocoapods/specs.git:
+    - ActiveLabel
+    - Adjust
+    - AFNetworking
+    - Alamofire
+    - AlamofireImage
+    - Apollo
+    - AppDynamicsAgent
+    - ATInternet-iOS-ObjC-SDK
+    - Base64
+    - CardIO
+    - CocoaLumberjack
+    - CodableAlamofire
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseAuthInterop
+    - FirebaseCore
+    - FirebaseDatabase
+    - FirebaseInstanceID
+    - FSCalendar
+    - GoogleAppMeasurement
+    - GoogleUtilities
+    - iAdvize
+    - IQKeyboardManagerSwift
+    - JWT
+    - KeychainSwift
+    - leveldb-library
+    - libextobjc
+    - Mantle
+    - Masonry
+    - MaterialComponents
+    - MDFInternationalization
+    - MessageInputBar
+    - MessageKit
+    - MyEnvironmentConfig
+    - nanopb
+    - OLGhostAlertView
+    - OMGHTTPURLRQ
+    - PayPal-iOS-SDK
+    - PromiseKit
+    - R.swift
+    - R.swift.Library
+    - Realm
+    - RealmSwift
+    - SwiftGraylog
+    - SwiftLint
+    - SwiftyBeaver
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  LPColissimo:
+    :branch: us/2771
+    :git: https://build.bnum.laposte.fr/gitlab/app-mobile/commun/lib-ios/LPSharedColissimoApiClient.git
+  LPColissimoUI:
+    :branch: sprint/5
+    :git: https://build.bnum.laposte.fr/gitlab/app-mobile/commun/lib-ios/LPSharedColissimoUI.git
+  LPSharedLOC:
+    :branch: LPSharedLOC_1.0
+    :git: https://build.bnum.laposte.fr/gitlab/app-mobile/commun/ios.git
+  LPSharedMCM:
+    :branch: LPShared_APPPRO
+    :git: https://build.bnum.laposte.fr/gitlab/app-mobile/commun/ios.git
+  LPSharedSUIVI:
+    :git: http://build.bnum.laposte.fr/gitlab/app-mobile/commun/lib-ios/LPSharedSUIVI.git
+
+CHECKOUT OPTIONS:
+  LPColissimo:
+    :commit: e53a299ceedd77ccaf1ebc3385ea5f748ab54b6a
+    :git: https://build.bnum.laposte.fr/gitlab/app-mobile/commun/lib-ios/LPSharedColissimoApiClient.git
+  LPColissimoUI:
+    :commit: 83292f1f2bb3da457c18a7524e028c2504d61bf4
+    :git: https://build.bnum.laposte.fr/gitlab/app-mobile/commun/lib-ios/LPSharedColissimoUI.git
+  LPSharedLOC:
+    :commit: b644e651186f136e848804089327e2b5138dfb06
+    :git: https://build.bnum.laposte.fr/gitlab/app-mobile/commun/ios.git
+  LPSharedMCM:
+    :commit: 136361dcebbd9ea9763de0e58e2f16f1731c0983
+    :git: https://build.bnum.laposte.fr/gitlab/app-mobile/commun/ios.git
+  LPSharedSUIVI:
+    :commit: 4bb4bf72bdc71b9349306bc7d709830dba73f14d
+    :git: http://build.bnum.laposte.fr/gitlab/app-mobile/commun/lib-ios/LPSharedSUIVI.git
+
+SPEC CHECKSUMS:
+  Accengage-iOS-SDK: 3ca71d11770e9a97be0bc24da9bc3b6f57d92f52
+  ActiveLabel: b8b2396fe25308d563601437d6605bf691c3b5db
+  Adjust: 12ec935e78a5af3631a7ce7b3bef78315917636d
+  AFNetworking: 10e85a00bb0f475124e4ff2677bf15693b2c1523
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  Apollo: 19caf3246d292bbb69ecad1bd098661f78222aba
+  AppDynamicsAgent: c577ecc57b2944a3193a392360702204110dfa17
+  ATInternet-iOS-ObjC-SDK: c2371166e159250f661e7480fb94a3e64ca61449
+  Base64: cecfb41a004124895a7bcee567a89bae5a89d49b
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  CocoaLumberjack: 118bf4a820efc641f79fa487b75ed928dccfae23
+  CodableAlamofire: b587c1198562824abb1f468aed34feb00d6cecd8
+  Firebase: c60d49e9c2630875a96207d15e2affb8364996d1
+  FirebaseAnalytics: fd72a26bf8dac84cefba2f0864366f718555a5b0
+  FirebaseAuthInterop: 0ffa57668be100582bb7643d4fcb7615496c41fc
+  FirebaseCore: 22a79a961c3951ef2f77b67bfbc99e454247b319
+  FirebaseDatabase: 2c15b0ea6f2c6eb5e57413f9d6340f1e50b81ae3
+  FirebaseInstanceID: cf488df2f4b79782f0e430b04a0e17c0aa7979b2
+  FSCalendar: 3a5ed3636e2ba1b83ebebfcf0c2603105a6f5efe
+  GoogleAppMeasurement: 1624046ab1bcc5e170061a56ef5679000b079c8e
+  GoogleUtilities: 6481e6318c5fcabaaa8513ef8120f329055d7c10
+  iAdvize: 98d1572f3ba86bd26ab346e5821ae9efb39c06c8
+  IQKeyboardManagerSwift: 0f0ae8935360b4003e6ea1ac7c19898f01e2f7c7
+  JWT: 05028b9624591bba9681bb57df2c5f95fa258bad
+  KeychainSwift: 23d6c16cbc33f20fafa30c3d783241b4b87d998c
+  leveldb-library: 08cba283675b7ed2d99629a4bc5fd052cd2bb6a5
+  libextobjc: aed8b7d2b07f511c1a7ecaacb33ea03e327c69b7
+  LPColissimo: 9d3e7fc861bcaf54132b381cac7a94b452f649b1
+  LPColissimoUI: 00ba55fbce8270ec862c334a2b6d8c31532ec3ba
+  LPSharedLOC: b85764d43b3fb9cb0abc8df0657f520f57b5dd3b
+  LPSharedMCM: 9c95bd256f3609753c581dfa2e853e9946692c6c
+  LPSharedSUIVI: 6c469ad30e519f66d6994f19a8e3b054cb9b3640
+  Mantle: 3fbcca07bdfe76c54a08c241689a60d34d08e783
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MaterialComponents: e4edce947dba33f9c4dd14c34024602999afcbed
+  MDFInternationalization: 010097556d6b09d2c4ea38e0820ea6d37be6a314
+  MessageInputBar: e81c7535347f1f7b923de7080409a535a004b6e4
+  MessageKit: 29c1c87e5a396d2ca7a3f712e5171dc9aba42a1e
+  MyEnvironmentConfig: db8aafd6c178d3ac5f17f06a6e10ea0dba2fdc4a
+  nanopb: 2901f78ea1b7b4015c860c2fdd1ea2fee1a18d48
+  OLGhostAlertView: 3eb3179a2be9c3a764831d0f958c36bb8ea38b53
+  OMGHTTPURLRQ: 9ac96bdf5c90a33f75836630729ea1adc312a9ed
+  PayPal-iOS-SDK: 10654cd111e911a9807bddb96fae81aacb8e9915
+  PromiseKit: 9007df2f9e2ef725467084ab3880cf932ab935a4
+  R.swift: d6a5ec2f55a8441dc0ed9f1f8b37d7d11ae85c66
+  R.swift.Library: c3af34921024333546e23b70e70d0b4e0cffca75
+  Realm: 221b25919bb5a010a3c597d707f8df3492dcd93a
+  RealmSwift: 28f22dfa6a27b9a778cfb09471558b6afcf1022c
+  SwiftGraylog: 888c984d99186b62c9109751de48235412f5ecde
+  SwiftLint: 7a0227733d786395817373b2d0ca799fd0093ff3
+  SwiftyBeaver: 4cc0080d2e23f980652e28978db11a5c9da39165
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 6a178c8809d27692368b349ae94046acb7c0377e
+
+COCOAPODS: 1.7.0.beta.2

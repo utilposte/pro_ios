@@ -1,0 +1,23 @@
+{
+  "name": "LPSharedSUIVI",
+  "version": "0.1.0",
+  "summary": "A short description of LPSharedSUIVI which allow us to use methods for future project La Poste.",
+  "description": "This Pod allows us to have access for Tracking method in La Poste App. A short description of LPSharedSUIVI which allow us to use methods for future project La Poste.",
+  "homepage": "http://www.laposte.net/",
+  "license": "Private",
+  "authors": "La Poste",
+  "source": {
+    "git": "",
+    "tag": "0.1.0"
+  },
+  "swift_versions": "4.0",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LPSharedSUIVI/Classes/*.{swift}",
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  }
+}

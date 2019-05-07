@@ -1,0 +1,24 @@
+# Xcode
+
+## Build generated
+DerivedData
+
+## Various settings
+xcuserdata
+
+
+## Other
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+##Generated file by pods
+R.generated.swift
+
+## File system
+*.DS_Store
+
+Example/LPSharedSUIVI.xcodeproj/xcuserdata/issamdahech.xcuserdatad/xcschemes/xcschememanagement.plist
+Example/LPSharedSUIVI.xcworkspace/xcuserdata/issamdahech.xcuserdatad/UserInterfaceState.xcuserstate
+Example/Pods/Pods.xcodeproj/xcuserdata/issamdahech.xcuserdatad/xcschemes/xcschememanagement.plist

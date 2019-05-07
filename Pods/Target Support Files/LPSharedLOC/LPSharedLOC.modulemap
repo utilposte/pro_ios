@@ -1,0 +1,6 @@
+framework module LPSharedLOC {
+  umbrella header "LPSharedLOC-umbrella.h"
+
+  export *
+  module * { export * }
+}

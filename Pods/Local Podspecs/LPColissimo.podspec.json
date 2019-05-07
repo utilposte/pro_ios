@@ -1,0 +1,33 @@
+{
+  "name": "LPColissimo",
+  "version": "0.1.0",
+  "summary": "A short description of LPColissimo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LaPoste/LPColissimo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LaPoste": "khaled.elabed-prestataire@laposte.fr"
+  },
+  "source": {
+    "git": "https://github.com/LaPoste/LPColissimo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LPColissimo/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "CodableAlamofire": [
+
+    ],
+    "LPSharedMCM": [
+      "~> 0.1.0"
+    ]
+  }
+}

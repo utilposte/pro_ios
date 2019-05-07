@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings .strings
+  LaPostePro
+
+  Created by Yonael Tordjman on 07/05/2018.
+  Copyright © 2018 App Mobile. All rights reserved.
+*/
+
+// CART
+"free_shipping_cart" = "les frais de ports sont offers";
+"number_product_cart" = "%@ produits";
+"confirm_order_cart" = "Finaliser ma commande";
+"default_query_product_list" = "::allCategories:%@";
+"product_total_number" = "%i résultats";
+"product_total_number_filter" = "Afficher les %i résultats";
+"product_total_number_filter_one" = "Afficher le résultat";
+"product_total_filter_empty" = "Aucun résultat";
+//For product detail
+"outofstock_alert_text" = "Soyez alerté lorsque le produit sera disponible";
+"outofstock_button_text" = "M'alerter";
+"instock_button_text" = "Ajouter au panier";

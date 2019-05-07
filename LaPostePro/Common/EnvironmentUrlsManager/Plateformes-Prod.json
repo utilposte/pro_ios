@@ -1,0 +1,24 @@
+{
+    "Plateforme": {
+        "Boutique": {
+            "PROD": "api.boutique.laposte.multimediabs.com"
+        },
+        "MASCADIA": {
+            "PROD": "https://www.serca.laposte.fr"
+        }
+    },
+    "Partner": {
+        "Accengage Partner ID": {
+            "PROD": "laposte929c860468fcd69"
+        },
+        "Accengage Private Key": {
+            "PROD": "8705816e594de414644b917d3d5a516bf26f63df"
+        },
+        "Adjust": {
+            "PROD": "ww4x5o28s7pc"
+        },
+        "ATTAG": {
+            "PROD": "596913"
+        },
+    }
+}

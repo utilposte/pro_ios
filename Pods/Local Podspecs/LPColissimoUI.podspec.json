@@ -1,0 +1,36 @@
+{
+  "name": "LPColissimoUI",
+  "version": "0.1.0",
+  "summary": "A short description of LPColissimoUI.",
+  "description": "This Pod is to Be reused in all LaPoste Applications",
+  "homepage": "https://www.laposte.fr",
+  "license": "Private",
+  "authors": "La Poste",
+  "source": {
+    "git": "",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LPColissimoUI/Classes/**/*.{swift,m,h}",
+  "resource_bundles": {
+    "LPColissimoUI": [
+      "LPColissimoUI/Classes/**/*.{storyboard,xib,json}"
+    ],
+    "LPColissimoUI_Strings": [
+      "LPColissimoUI/Classes/**/*.{lproj,otf}"
+    ],
+    "LPColissimoUI_Images": [
+      "LPColissimoUI/Assets/**/*.{png,jpeg,jpg,pdf,xcassets}"
+    ]
+  },
+  "dependencies": {
+    "LPColissimo": [
+      "~> 0.1.0"
+    ],
+    "ATInternet-iOS-ObjC-SDK": [
+
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+/* 
+  LocalizableColissimoUI.strings
+  Pods
+
+  Created by Issam DAHECH on 19/10/2018.
+  
+*/
+
+// MARK: - HOME View
+
+"k_home_title_key"          = "Colissimo";
+"k_home_send_now_text_key"  = "Envoyer dès maintenant un Colissimo";
+"K_home_departure_key"      = "Départ :";
+"K_home_arrival_key"        = "Arrivée :";
+"k_home_wight_key"          = "Poids :";
+"k_home_weight_from_key"    = "À partir de" ;
+"k_home_send_button_key"    = "ENVOYER MON COLIS";
+
+// Guide
+
+"k_home_guide_title_1" = "Comment utiliser l’affranchissement en ligne ?";
+"k_home_guide_detail_text_1" = "• L'affranchissement en ligne vous permet de préparer votre envoi de colis simplement depuis votre ordinateur ou votre smartphone.\n• Renseignez vos informations d'envoi (poids, taille, destination) en quelques secondes, imprimez l'étiquette, et collez-la sur votre colis.\n• Déposez-le ensuite en bureau de poste ou directement dans votre propre boite au lettre et le facteur passera le récupérer !";
+
+"k_home_guide_title_2" = "Comment imprimer mon étiquette depuis chez moi ?";
+"k_home_guide_sub_title_2" = "Imprimez votre étiquette comme vous le souhaitez";
+"k_home_guide_detail_title_2_1" = "Depuis votre smartphone iOS";
+"k_home_guide_detail_text_2_1" = "• Vérifiez la compatibilité WIFI ou BLUETOOTH de votre imprimante.\n• Si vous utilisez le WIFI, vérifiez que votre smartphone et imprimante soient connectés sur le même réseau Wi‑Fi.\n• Ouvrez l'étiquette que vous aurez reçu par mail.\n• Appuyez sur l’icône surmontée d’une flèche, en bas à gauche ou en bas de votre écran, faites glisser le menu déroulant vers la gauche, puis sélectionnez « Imprimer ».\n• Appuyez sur « Choisir », puis sélectionnez votre imprimante.\n• Il est possible que votre imprimante nécessite un pilote (driver) pour imprimer.\n• Lancez l’impression.";
+"k_home_guide_detail_title_2_2" = "Depuis votre smartphone Android";
+"k_home_guide_detail_text_2_2" = "• Vérifiez la compatibilité WIFI ou BLUETOOTH de votre imprimante.\n• Si vous utilisez le WIFI, vérifiez que votre smartphone et imprimante soient connectés sur le même réseau Wi‑Fi.\n• Ouvrez l'étiquette que vous aurez reçu par mail.\n• Appuyez sur les 3 points en haut à droite puis, sur « Partager ».\n• Sélectionnez « Imprimer ».\n• Vérifiez que vous avez choisi la bonne imprimante.\n• Enfin, appuyez sur l’icône de l’imprimante.\n• Il est possible que votre imprimante nécessite un pilote (driver) pour imprimer.\n• Lancez l’impression.";
+"k_home_guide_detail_title_2_3" = "Ou encore depuis votre ordinateur";
+"k_home_guide_detail_text_2_3" = "• Retrouvez l'étiquette dans votre espace client.\n• Lancez l’impression depuis votre ordinateur.";
+
+"k_home_guide_title_3" = "Comment imprimer mon étiquette en bureau de poste ?";
+"k_home_guide_detail_text_3" = "• Vous n’avez pas d’imprimante, utilisez les automates en bureau de poste pour imprimer votre étiquette Colissimo grâce au code retrait communiqué en fin de commande\n• Le tout sans perdre de temps dans la file d'attente !";
+
+// Advantages
+"k_home_advantage_header" = "Les avantages";
+
+"k_home_advantage_title_1"          = "Livraison à domicile en 48h*";
+"k_home_advantage_description_1"    = "La Poste s’engage et vous indemnise en cas de retard pour vos envois en France Métropolitaine.";
+
+"k_home_advantage_title_2"          = "Envoi de votre colis depuis votre boîte aux lettres sans surcoût";
+"k_home_advantage_description_2"    = "Poste propose un service innovant et gratuit d’envoi de Colissimo depuis votre boîte aux lettres.";
+
+"k_home_advantage_title_3"          = "Livraison partout dans le monde";
+"k_home_advantage_description_3"    = "Livraison en main propre vers plus de 220 destinations. ";
+
+"k_home_advantage_title_4"          = "Suivi simple et personnalisé de vos colis";
+"k_home_advantage_description_4"    = "Vous choisissez à quel moment vous souhaitez être informé par email des étapes clés de l’acheminement de votre colis.";
+
+"k_home_advantage_title_5"          = "Envoi d'objets lourds et volumineux";
+"k_home_advantage_description_5"    = "Vous pouvez envoyer un colis allant jusqu'à 30 kg et 2 m de développé (L+l+h).";
+
+"k_home_advantage_title_6"          = "Annulation et remboursement faciles";
+"k_home_advantage_description_6"    = "Tant que vous n'avez pas déposé votre colis, vous pouvez demander son annulation depuis votre compte client. Vous serez alors remboursé automatiquement";
+
+"k_home_advantage_title_7"          = "Des services adaptés à la valeur de votre envoi";
+"k_home_advantage_description_7"    = "Une indemnisation minimale de 23€/kg incluse en cas de perte ou avarie.\nSi vous le souhaitez, une indemnisation supérieure adaptée à la valeur réélle de votre colis est disponible.";
+
+// Error Message
+"k_home_error_default_value" = "Le poids a été corrigé à la valeur par défaut.";
+"k_home_error_max_value" = "Le poids a été corrigé à la valeur maximale autorisée pour cette destination.";

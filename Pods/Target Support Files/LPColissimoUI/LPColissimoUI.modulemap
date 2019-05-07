@@ -1,0 +1,6 @@
+framework module LPColissimoUI {
+  umbrella header "LPColissimoUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

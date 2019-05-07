@@ -1,0 +1,1460 @@
+[
+ {
+ "Pays": "afghanistan",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "afrique du sud",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "albanie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "algérie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Allemagne",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "andorre",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "angola",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "anguilla",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "antarctique",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "antigua-et-barbuda",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "antilles neerlandaises",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "arabie saoudite",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "argentine",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "arménie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "aruba",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "australie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "autorité palestinienne",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Autriche",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "azerbaidjan",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "bahamas",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "bahrein",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "bangladesh",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "barbade",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "berlgique",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "belize",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "bénin",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "bermudes",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "bhoutan",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "biélorussie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "birmanie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "bolivie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "bonaire",
+ "TVA_intracommunautaire": " saint-eustache et saba",
+ "Type_societe_obligatoire": "NON",
+ "SIRET_obligatoire": "OUI"
+ },
+ {
+ "Pays": "Bosnie-Herzégovine",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Botswana",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Brésil",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Brunei",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "bulgarie",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Burkina Faso",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Burundi",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Cambodge",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Cameroun",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Canada",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Cap-vert",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Chili",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Chine",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Chypre",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Clipperton",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Colombie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Comores",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Corée du nord",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Corée du sud",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Costa rica",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Côte d'Ivoire",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Croatie",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Cuba",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Curaçao",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Danemark",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Djibouti",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Dominique",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Egypte",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Emirats arabes Unis",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Equateur",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Erythrée",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Espagne",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Estonie",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Etats-unis",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Ethiopie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Fidji",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Finlande",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "France Métropolitaine",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "OUI"
+ },
+ {
+ "Pays": "Gabon",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Gambie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Georgie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Georgie du sud - Iles Sandwich Du sud",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Ghana",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Gibaltar",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Grèce",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Grenade",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Groenland",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Guadeloupe",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Guam",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Guatemala",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Guinée",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Guinée-bissau",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Guinée équatoriale",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Guyana",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Guyane",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "OUI"
+ },
+ {
+ "Pays": "Haiti",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Honduras",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Hong kong",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Hongrie",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Ile bouvet",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Ile norfolk",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Iles caiman",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Iles cook",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Iles heard-et-MacDonald",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Iles malouines",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Iles mariannes du nord",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Iles mineures éloigénes des etats-unis",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Iles pitcairn",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Iles turques-et-caiques",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Iles vierges britanniques",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Iles vierges des etats-unis",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Inde",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Indonésie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Irak",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Iran",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Irlande",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "islande",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Israel",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Italie",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "jamaique",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "japon",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "jordanie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Kazakhstan",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "kenya",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Kirghizistan",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Kiribati",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Kosovo",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Koweit",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Laos",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "La réunion",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "OUI"
+ },
+ {
+ "Pays": "Lesotho",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Lettonie",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Liban",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Liberia",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Libye",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "liechtenstein",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Lituanie",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Luxembourg",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Macao",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Macédoine",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Madagascar",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Malaisie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Malawi",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Maldives",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Mali",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Malte",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Maroc",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Marshall",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Martinique",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "OUI"
+ },
+ {
+ "Pays": "Maurice",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Mauritanie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Mayotte",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "OUI"
+ },
+ {
+ "Pays": "Mexique",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Micronésie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Moldavie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Monaco",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "OUI"
+ },
+ {
+ "Pays": "Mongolie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Monténégro",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Montserrat",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Mozambique",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Namibie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Nauru",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Népal",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Nicaragua",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Niger",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Nigeria",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Niue",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Norvège",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Nouvelle-calédonie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Nouvelle zélande",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "oman",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Ouganda",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Ouzbékistan",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Pakistan",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Palaos",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Panama",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Papouasie-nouvelle-guinée",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Paraguay",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Pays-bas",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Pérou",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Philippines",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Pologne",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Polynésie française",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "OUI"
+ },
+ {
+ "Pays": "porto Rico",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Portugal",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Qatar",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "République centrafricaine",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "République démocratique du congo",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "République dominicaine",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "République du congo",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "République tchèque",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Roumanie",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Royaume uni",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Russie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Rwanda",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Sahara occidental",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Siant-barthélemy",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "OUI"
+ },
+ {
+ "Pays": "Saint-christophe et-niévès",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Sainte-Hélène",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Sainte-Lucie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Saint-Marin",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Saint-Martin",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "OUI"
+ },
+ {
+ "Pays": "Saint-pierre-et-miquelon",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "OUI"
+ },
+ {
+ "Pays": "Saint-vincent-et-les-grenadines",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Salomon",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Salvador",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Samoa",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Samoa américaines",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Sao tmé-et-principe",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Sénégal",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Serbie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Seychelles",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Sierra leone",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Singapour",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Slovaquie",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Slovénie",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Somalie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Soudan",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Soudan du sud",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Sri lanka",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Suède",
+ "TVA_intracommunautaire": "OUI",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Suisse",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Suriname",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Svabard et ile Jan Mayen",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Swaziland",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Syrie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Tadjikistan",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Taiwan",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Tanzanie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Tchad",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Terres australes françaises",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Thailande",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Timor oriental",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Togo",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Tokelau",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Tonga",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Trinité-et-tobago",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Tunisie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Turkménistan",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Turquie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Tuvalu",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Ukraine",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Uruguay",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Vanuatu",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Vatican",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Venezuela",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Viêt nam",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Wallis et futuna",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Yémen",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Zambie",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ },
+ {
+ "Pays": "Zimbabwe",
+ "TVA_intracommunautaire": "NON",
+ "Type_societe_obligatoire": "OUI",
+ "SIRET_obligatoire": "NON"
+ }
+ ]

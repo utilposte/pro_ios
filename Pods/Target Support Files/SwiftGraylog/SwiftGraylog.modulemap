@@ -1,0 +1,6 @@
+framework module SwiftGraylog {
+  umbrella header "SwiftGraylog-umbrella.h"
+
+  export *
+  module * { export * }
+}

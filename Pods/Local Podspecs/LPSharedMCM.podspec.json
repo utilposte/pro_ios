@@ -1,0 +1,56 @@
+{
+  "name": "LPSharedMCM",
+  "version": "0.1.0",
+  "summary": "A short description of LPSharedMCM.",
+  "description": "This Pod is to Be reused in all LaPoste Applications",
+  "homepage": "https://www.laposte.fr",
+  "license": "Private",
+  "authors": "La Poste",
+  "source": {
+    "git": "",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LPSharedMCM/**/*.{h,m,plist}",
+  "private_header_files": "LPSharedMCM/MCM/Private/*.h",
+  "public_header_files": [
+    "LPSharedMCM/REEX/**/*.h",
+    "LPSharedMCM/MCM/Source/**/*.h",
+    "LPSharedMCM/MCM/Library/**/*.h",
+    "LPSharedMCM/MCM/Managers/**/*.h",
+    "LPSharedMCM/Colissimo/**/*.h",
+    "LPSharedMCM/PEMO/**/*.h",
+    "LPSharedMCM/MCM/Private/*.h"
+  ],
+  "dependencies": {
+    "OMGHTTPURLRQ": [
+
+    ],
+    "AFNetworking": [
+      "2.5.1"
+    ],
+    "Mantle": [
+      "1.0.0"
+    ],
+    "CocoaLumberjack": [
+
+    ],
+    "PromiseKit": [
+      "~> 1.7.6"
+    ],
+    "libextobjc": [
+
+    ],
+    "MyEnvironmentConfig": [
+
+    ],
+    "Masonry": [
+      "0.6.4"
+    ],
+    "OLGhostAlertView": [
+
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+framework module ATInternet_iOS_ObjC_SDK {
+  umbrella header "ATInternet-iOS-ObjC-SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

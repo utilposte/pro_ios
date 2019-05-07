@@ -1,0 +1,33 @@
+/* 
+  LOC_Localizable.strings
+  laposte
+
+  Created by Issam DAHECH on 11/08/2017.
+  Copyright © 2017 laposte. All rights reserved.
+*/
+
+
+// LOC_LOCOfficeDetailViewController
+
+"office_detail_title"                           = "Détails bureau de poste";
+"office_detail_itinerary_alert_title"           = "Itinéraire";
+"office_detail_itinerary_alert_cancel"          = "Annuler";
+"office_detail_itinerary_alert_open_plans"      = "Ouvrir Plans";
+"office_detail_itinerary_alert_open_googlemaps" = "Ouvrir Google Maps";
+"office_detail_itinerary_button"                = "Itinéraire";
+
+"office_detail_cell_dayPerDay"          = "Horaires jour par jour";
+"office_detail_cell_limit_hours"        = "Heures limites de dépôt";
+"office_detail_cell_calendar_button"    = "Calendrier";
+"office_detail_cell_toDay"              = "Aujourd'hui";
+"office_detail_cell_open"               = "OUVERT";
+"office_detail_cell_close"              = "FERMÉ";
+
+"office_detail_error_no_data_text"      ="Nous n'avons trouvé aucun résultat pour votre recherche";
+"office_detail_error_no_data_title"     ="Aucun résultat";
+"office_detail_error_network_title"     ="Réseau indisponible";
+"office_detail_error_network_text"      ="La connexion internet semble interrompue. Veuillez vérifier votre connexion et réessayer";
+"office_detail_error_server_title"      ="";
+"office_detail_error_server_text"       ="Nous rencontrons actuellement un problème technique. Merci de réessayer ultérieurement";
+"office_detail_error_close"             ="Fermer";
+"office_detail_error_ok"                ="OK";

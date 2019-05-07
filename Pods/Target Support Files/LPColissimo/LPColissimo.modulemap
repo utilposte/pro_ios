@@ -1,0 +1,6 @@
+framework module LPColissimo {
+  umbrella header "LPColissimo-umbrella.h"
+
+  export *
+  module * { export * }
+}

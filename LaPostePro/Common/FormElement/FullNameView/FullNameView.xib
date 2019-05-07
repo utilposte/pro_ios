@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="FullNameView" customModule="LaPostePro" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="70"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="MLt-vu-Ik0" customClass="MDCTextField">
+                    <rect key="frame" x="20" y="0.0" width="162" height="70"/>
+                    <nil key="textColor"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits"/>
+                </textField>
+                <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Xks-2D-CFC" customClass="MDCTextField">
+                    <rect key="frame" x="193" y="0.0" width="162" height="70"/>
+                    <nil key="textColor"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits"/>
+                </textField>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="MLt-vu-Ik0" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="20" id="AO3-OH-Ghd"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="Xks-2D-CFC" secondAttribute="trailing" constant="20" id="Amk-bB-XDA"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="MLt-vu-Ik0" secondAttribute="bottom" id="Ox1-Mx-NrN"/>
+                <constraint firstItem="Xks-2D-CFC" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="SpV-Zf-29E"/>
+                <constraint firstItem="MLt-vu-Ik0" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="bpq-am-dfO"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="Xks-2D-CFC" secondAttribute="bottom" id="edh-Nb-K5s"/>
+                <constraint firstItem="Xks-2D-CFC" firstAttribute="width" secondItem="MLt-vu-Ik0" secondAttribute="width" id="gfV-Mr-3Js"/>
+                <constraint firstItem="Xks-2D-CFC" firstAttribute="leading" secondItem="MLt-vu-Ik0" secondAttribute="trailing" constant="11" id="wad-mU-Ohe"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="firstNameTextField" destination="MLt-vu-Ik0" id="52a-Pi-ROU"/>
+                <outlet property="lastNameTextField" destination="Xks-2D-CFC" id="XLc-S9-S8L"/>
+            </connections>
+            <point key="canvasLocation" x="25.5" y="49"/>
+        </view>
+    </objects>
+</document>

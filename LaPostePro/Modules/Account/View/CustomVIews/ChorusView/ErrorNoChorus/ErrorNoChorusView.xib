@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="ErrorNoChorusView" customModule="LaPostePro" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="191"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ejx-Wk-Uae">
+                    <rect key="frame" x="10" y="10" width="355" height="171"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XSI-Gq-06J">
+                            <rect key="frame" x="8" y="79" width="339" height="76"/>
+                            <string key="text">Merci de vérifier votre inscription sur le portail Chorus Pro afin que l'on puisse transmettre vos factures vers votre compte Chorus Pro. Si votre inscription est active merci de vérifier la conformité de votre SIRET avec votre type de société</string>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="13"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Partenariat Chorus" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fdG-DV-GLA">
+                            <rect key="frame" x="8" y="16" width="339" height="20"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                            <color key="textColor" red="0.0" green="0.4431372549" blue="0.68235294120000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Vous n'êtes pas partenaire Chorus !" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Kgk-JH-Y35">
+                            <rect key="frame" x="8" y="44" width="339" height="17"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" red="0.80000000000000004" green="0.91764705882352937" blue="0.96078431372549022" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstItem="Kgk-JH-Y35" firstAttribute="top" secondItem="fdG-DV-GLA" secondAttribute="bottom" constant="8" id="1Cf-cL-iHV"/>
+                        <constraint firstItem="XSI-Gq-06J" firstAttribute="leading" secondItem="ejx-Wk-Uae" secondAttribute="leading" constant="8" id="EOd-uY-EfH"/>
+                        <constraint firstItem="Kgk-JH-Y35" firstAttribute="leading" secondItem="ejx-Wk-Uae" secondAttribute="leading" constant="8" id="KUS-OR-RBS"/>
+                        <constraint firstAttribute="trailing" secondItem="fdG-DV-GLA" secondAttribute="trailing" constant="8" id="Mo4-E4-OQD"/>
+                        <constraint firstItem="fdG-DV-GLA" firstAttribute="leading" secondItem="ejx-Wk-Uae" secondAttribute="leading" constant="8" id="QHy-q2-Hmh"/>
+                        <constraint firstAttribute="trailing" secondItem="XSI-Gq-06J" secondAttribute="trailing" constant="8" id="TyM-K7-uB6"/>
+                        <constraint firstAttribute="trailing" secondItem="Kgk-JH-Y35" secondAttribute="trailing" constant="8" id="VIr-wt-1XS"/>
+                        <constraint firstItem="fdG-DV-GLA" firstAttribute="top" secondItem="ejx-Wk-Uae" secondAttribute="top" constant="16" id="cUD-km-Y1L"/>
+                        <constraint firstAttribute="bottom" secondItem="XSI-Gq-06J" secondAttribute="bottom" constant="16" id="sFG-OH-h89"/>
+                        <constraint firstItem="XSI-Gq-06J" firstAttribute="top" secondItem="Kgk-JH-Y35" secondAttribute="bottom" constant="18" id="wgL-si-F48"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="5"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="ejx-Wk-Uae" secondAttribute="trailing" constant="10" id="Gdc-fB-Sil"/>
+                <constraint firstAttribute="bottom" secondItem="ejx-Wk-Uae" secondAttribute="bottom" constant="10" id="T6G-Sz-TgP"/>
+                <constraint firstItem="ejx-Wk-Uae" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="10" id="u2N-jt-o5a"/>
+                <constraint firstItem="ejx-Wk-Uae" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="10" id="yN8-eP-CXP"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="messageLabel" destination="XSI-Gq-06J" id="Te7-08-u6d"/>
+            </connections>
+            <point key="canvasLocation" x="39.200000000000003" y="-217.24137931034485"/>
+        </view>
+    </objects>
+</document>

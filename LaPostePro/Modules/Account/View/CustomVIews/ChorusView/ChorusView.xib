@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="ChorusView" customModule="LaPostePro" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="171"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="MFY-1e-2cJ">
+                    <rect key="frame" x="10" y="0.0" width="355" height="151"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Partenariat Chorus" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eCv-Ub-rg0">
+                            <rect key="frame" x="8" y="16" width="339" height="20"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                            <color key="textColor" red="0.0" green="0.4431372549" blue="0.68235294120000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Vous êtes partenaire Chorus !" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Pgc-yS-fkN">
+                            <rect key="frame" x="10" y="44" width="335" height="17"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3y5-sq-DmS">
+                            <rect key="frame" x="10" y="91" width="335" height="50"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="50" id="nZI-4f-2hz"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <inset key="contentEdgeInsets" minX="5" minY="0.0" maxX="0.0" maxY="0.0"/>
+                            <state key="normal" title="Code Service*" image="down-arrow">
+                                <color key="titleColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <connections>
+                                <action selector="serviceListButtonClicked:" destination="iN0-l3-epB" eventType="touchUpInside" id="MVr-dd-Vza"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.80000000000000004" green="0.91764705882352937" blue="0.96078431372549022" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="3y5-sq-DmS" secondAttribute="trailing" constant="10" id="5U6-uH-yjt"/>
+                        <constraint firstAttribute="bottom" secondItem="3y5-sq-DmS" secondAttribute="bottom" constant="10" id="7yU-4T-Bya"/>
+                        <constraint firstAttribute="trailing" secondItem="Pgc-yS-fkN" secondAttribute="trailing" constant="10" id="GbA-Qb-tHa"/>
+                        <constraint firstItem="Pgc-yS-fkN" firstAttribute="leading" secondItem="MFY-1e-2cJ" secondAttribute="leading" constant="10" id="RPR-8C-6sS"/>
+                        <constraint firstItem="Pgc-yS-fkN" firstAttribute="top" secondItem="eCv-Ub-rg0" secondAttribute="bottom" constant="8" id="UfI-7J-h34"/>
+                        <constraint firstAttribute="trailing" secondItem="eCv-Ub-rg0" secondAttribute="trailing" constant="8" id="Vwg-Gt-8Fy"/>
+                        <constraint firstItem="eCv-Ub-rg0" firstAttribute="leading" secondItem="MFY-1e-2cJ" secondAttribute="leading" constant="8" id="b6O-W6-NfS"/>
+                        <constraint firstItem="3y5-sq-DmS" firstAttribute="leading" secondItem="MFY-1e-2cJ" secondAttribute="leading" constant="10" id="egK-QE-iWC"/>
+                        <constraint firstItem="eCv-Ub-rg0" firstAttribute="top" secondItem="MFY-1e-2cJ" secondAttribute="top" constant="16" id="oVq-r7-On1"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="MFY-1e-2cJ" secondAttribute="bottom" constant="20" id="4AP-D5-myp"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="MFY-1e-2cJ" secondAttribute="trailing" constant="10" id="BBG-VB-59Q"/>
+                <constraint firstItem="MFY-1e-2cJ" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="hwD-n7-GpA"/>
+                <constraint firstItem="MFY-1e-2cJ" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="10" id="lNm-n1-oqo"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="buttonHeight" destination="nZI-4f-2hz" id="1c4-53-kIC"/>
+                <outlet property="containerView" destination="MFY-1e-2cJ" id="0sZ-oM-J5c"/>
+                <outlet property="serviceListButton" destination="3y5-sq-DmS" id="dCb-Yb-l9D"/>
+                <outlet property="titleLabel" destination="Pgc-yS-fkN" id="pup-ZQ-ggx"/>
+            </connections>
+            <point key="canvasLocation" x="138.40000000000001" y="-59.820089955022496"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="down-arrow" width="16" height="9"/>
+    </resources>
+</document>

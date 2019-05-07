@@ -1,0 +1,24 @@
+{
+    "Plateforme": {
+        "Boutique": {
+            "RCT": "dpart3.boutique.dcos.buildbnum.fr"
+        },
+        "MASCADIA": {
+            "RCT": "https://www.serca.laposte.fr"
+        }
+    },
+    "Partner": {
+        "Accengage Partner ID": {
+            "PROD": "laposte9bd7ac44adb1add"
+        },
+        "Accengage Private Key": {
+            "PROD": "3d0df26e9975c60df1377de243a1cf4593e209e0"
+        },
+        "Adjust": {
+            "RCT": "ww4x5o28s7pc"
+        },
+        "ATTAG": {
+            "RCT": "596914"
+        }
+    }
+}

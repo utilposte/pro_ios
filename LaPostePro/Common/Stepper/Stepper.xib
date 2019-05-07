@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="DINPro-Bold.ttf">
+            <string>DINPro-Bold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="Stepper" customModule="LaPostePro" customModuleProvider="target">
+            <connections>
+                <outlet property="minusButton" destination="7yz-8f-2Zv" id="jLS-Ke-3rE"/>
+                <outlet property="plusButton" destination="Lf0-Bw-xWH" id="5ff-H9-imv"/>
+                <outlet property="quantityTextField" destination="AHz-Er-8n1" id="Vy1-A3-PAu"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="zhN-yz-4dh">
+            <rect key="frame" x="0.0" y="0.0" width="267" height="63"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7yz-8f-2Zv">
+                    <rect key="frame" x="0.0" y="14.5" width="35" height="35"/>
+                    <color key="backgroundColor" red="0.96862745100000003" green="0.96862745100000003" blue="0.96862745100000003" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="35" id="Trg-c8-9Ft"/>
+                        <constraint firstAttribute="height" constant="35" id="q3q-uj-N4Y"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                    <state key="normal" title="-">
+                        <color key="titleColor" red="0.57254901960000004" green="0.0" blue="0.30196078430000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="minusButtonTapped:" destination="-1" eventType="touchUpInside" id="hem-rG-JpF"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Lf0-Bw-xWH">
+                    <rect key="frame" x="232" y="14.5" width="35" height="35"/>
+                    <color key="backgroundColor" red="0.96862745100000003" green="0.96862745100000003" blue="0.96862745100000003" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                    <state key="normal" title="+">
+                        <color key="titleColor" red="0.57254901960000004" green="0.0" blue="0.30196078430000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="plusButtonTapped:" destination="-1" eventType="touchUpInside" id="SB4-os-krU"/>
+                    </connections>
+                </button>
+                <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="249" contentHorizontalAlignment="left" contentVerticalAlignment="center" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="AHz-Er-8n1">
+                    <rect key="frame" x="35" y="14.5" width="197" height="35"/>
+                    <color key="textColor" red="0.019607843137254902" green="0.054901960784313725" blue="0.21176470588235294" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" name="DINPro-Bold" family="DINPro" pointSize="18"/>
+                    <textInputTraits key="textInputTraits"/>
+                </textField>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="7yz-8f-2Zv" firstAttribute="leading" secondItem="ygX-ux-dLr" secondAttribute="leading" id="6G3-r3-tRk"/>
+                <constraint firstItem="Lf0-Bw-xWH" firstAttribute="leading" secondItem="AHz-Er-8n1" secondAttribute="trailing" id="6d8-j4-Eyx"/>
+                <constraint firstItem="Lf0-Bw-xWH" firstAttribute="width" secondItem="7yz-8f-2Zv" secondAttribute="width" id="9Ny-zd-jvJ"/>
+                <constraint firstItem="Lf0-Bw-xWH" firstAttribute="centerY" secondItem="zhN-yz-4dh" secondAttribute="centerY" id="DIZ-fL-QNh"/>
+                <constraint firstItem="AHz-Er-8n1" firstAttribute="leading" secondItem="7yz-8f-2Zv" secondAttribute="trailing" id="IfL-mI-pje"/>
+                <constraint firstItem="AHz-Er-8n1" firstAttribute="centerY" secondItem="zhN-yz-4dh" secondAttribute="centerY" id="KCu-yX-haW"/>
+                <constraint firstItem="7yz-8f-2Zv" firstAttribute="centerY" secondItem="zhN-yz-4dh" secondAttribute="centerY" id="Koo-pw-NL6"/>
+                <constraint firstItem="AHz-Er-8n1" firstAttribute="centerX" secondItem="zhN-yz-4dh" secondAttribute="centerX" id="ZFQ-lu-pj6"/>
+                <constraint firstItem="Lf0-Bw-xWH" firstAttribute="height" secondItem="7yz-8f-2Zv" secondAttribute="height" id="oxY-rk-HfD"/>
+                <constraint firstItem="AHz-Er-8n1" firstAttribute="height" secondItem="7yz-8f-2Zv" secondAttribute="height" id="qru-Nr-ecL"/>
+                <constraint firstItem="ygX-ux-dLr" firstAttribute="trailing" secondItem="Lf0-Bw-xWH" secondAttribute="trailing" id="v3T-1z-nQd"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="ygX-ux-dLr"/>
+            <point key="canvasLocation" x="-169" y="65"/>
+        </view>
+    </objects>
+</document>

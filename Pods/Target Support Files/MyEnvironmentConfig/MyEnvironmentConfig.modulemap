@@ -1,0 +1,6 @@
+framework module MyEnvironmentConfig {
+  umbrella header "MyEnvironmentConfig-umbrella.h"
+
+  export *
+  module * { export * }
+}

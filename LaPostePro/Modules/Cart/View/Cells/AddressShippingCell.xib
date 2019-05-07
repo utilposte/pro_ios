@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="AddressShippingTableViewCell" rowHeight="146" id="o67-Hx-Wou" customClass="AddressShippingTableViewCell" customModule="LaPostePro" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="146"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="o67-Hx-Wou" id="RX2-2R-phH">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="145.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="B8E-V2-RSh">
+                        <rect key="frame" x="20" y="3" width="335" height="139.5"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="253" text="ENTREPRISE GILBERT" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eEt-Yd-Azg">
+                                <rect key="frame" x="10" y="15" width="320" height="17"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" red="0.019607843137254902" green="0.054901960784313725" blue="0.21176470588235294" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text=" " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RBb-U3-NfW">
+                                <rect key="frame" x="10" y="36" width="320" height="17"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                                <color key="textColor" red="0.019607843140000001" green="0.054901960780000002" blue="0.21176470589999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="253" text="75009, France" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Zp9-v7-sRJ">
+                                <rect key="frame" x="10" y="86.5" width="320" height="16"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <color key="textColor" red="0.47058823529411764" green="0.47058823529411764" blue="0.50980392156862742" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="45 rue La Fayette" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="km1-V0-aSY">
+                                <rect key="frame" x="10" y="63" width="320" height="19.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <color key="textColor" red="0.47058823529411764" green="0.47058823529411764" blue="0.50980392156862742" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="France" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Py8-PZ-opU">
+                                <rect key="frame" x="10" y="106.5" width="41.5" height="18"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <color key="textColor" red="0.47058823529411764" green="0.47058823529411764" blue="0.50980392156862742" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Modifier" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Q0x-pU-pGg">
+                                <rect key="frame" x="253.5" y="106.5" width="61.5" height="18"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <color key="textColor" red="0.57254901960000004" green="0.0" blue="0.30196078430000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="small-check" translatesAutoresizingMaskIntoConstraints="NO" id="CCA-if-DeB">
+                                <rect key="frame" x="315" y="10" width="10" height="10"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="10" id="2XR-Mk-ghK"/>
+                                    <constraint firstAttribute="width" constant="10" id="uBW-wf-P6H"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="km1-V0-aSY" firstAttribute="leading" secondItem="RBb-U3-NfW" secondAttribute="leading" id="3ds-qs-VS7"/>
+                            <constraint firstItem="Zp9-v7-sRJ" firstAttribute="leading" secondItem="km1-V0-aSY" secondAttribute="leading" id="7dN-0F-ikY"/>
+                            <constraint firstAttribute="trailing" secondItem="CCA-if-DeB" secondAttribute="trailing" constant="10" id="A3x-1l-S9y"/>
+                            <constraint firstAttribute="trailing" secondItem="Q0x-pU-pGg" secondAttribute="trailing" constant="20" id="BEN-fZ-yUl"/>
+                            <constraint firstItem="km1-V0-aSY" firstAttribute="top" secondItem="RBb-U3-NfW" secondAttribute="bottom" constant="10" id="Fts-pr-qYV"/>
+                            <constraint firstItem="RBb-U3-NfW" firstAttribute="leading" secondItem="eEt-Yd-Azg" secondAttribute="leading" id="MCo-t8-Pye"/>
+                            <constraint firstItem="CCA-if-DeB" firstAttribute="top" secondItem="B8E-V2-RSh" secondAttribute="top" constant="10" id="N1X-wq-kfu"/>
+                            <constraint firstItem="Zp9-v7-sRJ" firstAttribute="trailing" secondItem="km1-V0-aSY" secondAttribute="trailing" id="NQK-if-mjV"/>
+                            <constraint firstItem="Py8-PZ-opU" firstAttribute="leading" secondItem="Zp9-v7-sRJ" secondAttribute="leading" id="Ohg-GB-5GF"/>
+                            <constraint firstItem="RBb-U3-NfW" firstAttribute="top" secondItem="eEt-Yd-Azg" secondAttribute="bottom" constant="4" id="PTV-EU-wKV"/>
+                            <constraint firstItem="Q0x-pU-pGg" firstAttribute="centerY" secondItem="Py8-PZ-opU" secondAttribute="centerY" id="QoI-6Q-A3o"/>
+                            <constraint firstItem="Zp9-v7-sRJ" firstAttribute="top" secondItem="km1-V0-aSY" secondAttribute="bottom" constant="4" id="Ub5-2p-ah9"/>
+                            <constraint firstItem="eEt-Yd-Azg" firstAttribute="leading" secondItem="B8E-V2-RSh" secondAttribute="leading" constant="10" id="aqs-Xk-6B8"/>
+                            <constraint firstAttribute="trailing" secondItem="eEt-Yd-Azg" secondAttribute="trailing" constant="5" id="edI-en-M3N"/>
+                            <constraint firstAttribute="bottom" secondItem="Py8-PZ-opU" secondAttribute="bottom" constant="15" id="jPb-ri-Rqg"/>
+                            <constraint firstItem="Py8-PZ-opU" firstAttribute="top" secondItem="Zp9-v7-sRJ" secondAttribute="bottom" constant="4" id="laX-4h-5W1"/>
+                            <constraint firstAttribute="bottom" secondItem="Q0x-pU-pGg" secondAttribute="bottom" constant="15" id="pZz-dJ-Nhl"/>
+                            <constraint firstItem="eEt-Yd-Azg" firstAttribute="top" secondItem="B8E-V2-RSh" secondAttribute="top" constant="15" id="rJ1-kg-F3t"/>
+                            <constraint firstItem="km1-V0-aSY" firstAttribute="trailing" secondItem="RBb-U3-NfW" secondAttribute="trailing" id="rtu-Le-Upk"/>
+                            <constraint firstItem="RBb-U3-NfW" firstAttribute="trailing" secondItem="eEt-Yd-Azg" secondAttribute="trailing" id="t45-1j-4Cc"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="B8E-V2-RSh" firstAttribute="top" secondItem="RX2-2R-phH" secondAttribute="top" constant="3" id="5Mv-9y-K2p"/>
+                    <constraint firstAttribute="trailing" secondItem="B8E-V2-RSh" secondAttribute="trailing" constant="20" id="WMk-fX-cQ3"/>
+                    <constraint firstItem="B8E-V2-RSh" firstAttribute="leading" secondItem="RX2-2R-phH" secondAttribute="leading" constant="20" id="dl3-JX-ugY"/>
+                    <constraint firstAttribute="bottom" secondItem="B8E-V2-RSh" secondAttribute="bottom" constant="3" id="hbA-CZ-TA3"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="checkImage" destination="CCA-if-DeB" id="lYu-bt-8xR"/>
+                <outlet property="companyName" destination="eEt-Yd-Azg" id="vCF-in-hrx"/>
+                <outlet property="country" destination="Py8-PZ-opU" id="GcE-Wl-wsU"/>
+                <outlet property="edgeView" destination="B8E-V2-RSh" id="pat-eO-qCj"/>
+                <outlet property="editAddressLabel" destination="Q0x-pU-pGg" id="Vu3-WK-9Yg"/>
+                <outlet property="nameLabel" destination="RBb-U3-NfW" id="rNB-AE-b1m"/>
+                <outlet property="postalCode" destination="Zp9-v7-sRJ" id="Bzd-Eg-zz7"/>
+                <outlet property="streetAddress" destination="km1-V0-aSY" id="ubz-IP-Pyp"/>
+            </connections>
+            <point key="canvasLocation" x="-244.5" y="-56"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="small-check" width="10" height="8"/>
+    </resources>
+</document>

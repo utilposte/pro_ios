@@ -1,0 +1,6 @@
+framework module LPSharedSUIVI {
+  umbrella header "LPSharedSUIVI-umbrella.h"
+
+  export *
+  module * { export * }
+}

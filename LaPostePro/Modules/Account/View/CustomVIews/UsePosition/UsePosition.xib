@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="UsePosition" customModule="LaPostePro" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="77"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nQn-ai-fDc">
+                    <rect key="frame" x="20" y="5" width="335" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="87T-C8-QTD"/>
+                    </constraints>
+                    <inset key="titleEdgeInsets" minX="15" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <state key="normal" title="Utiliser ma position actuelle">
+                        <color key="titleColor" red="0.0" green="0.0" blue="0.20392156859999999" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="usePositionButtonClicked:" destination="iN0-l3-epB" eventType="touchUpInside" id="tmM-62-F34"/>
+                    </connections>
+                </button>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="loc_nearest" translatesAutoresizingMaskIntoConstraints="NO" id="njb-T0-ufg">
+                    <rect key="frame" x="315" y="17.5" width="20" height="25"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="20" id="Bn7-os-CMH"/>
+                        <constraint firstAttribute="height" constant="25" id="s73-iY-9Sy"/>
+                    </constraints>
+                </imageView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Glt-3E-swK">
+                    <rect key="frame" x="20" y="75" width="335" height="1"/>
+                    <color key="backgroundColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="gew-nM-iiQ"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="njb-T0-ufg" secondAttribute="trailing" constant="40" id="1jP-KP-4hn"/>
+                <constraint firstItem="Glt-3E-swK" firstAttribute="top" secondItem="nQn-ai-fDc" secondAttribute="bottom" constant="20" id="8oR-ik-u2b"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="Glt-3E-swK" secondAttribute="trailing" constant="20" id="Gdb-S5-rXh"/>
+                <constraint firstItem="Glt-3E-swK" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="20" id="Hhn-Rq-OZl"/>
+                <constraint firstItem="nQn-ai-fDc" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="5" id="KPb-7p-9X3"/>
+                <constraint firstItem="nQn-ai-fDc" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="20" id="NCV-6H-Sl1"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="Glt-3E-swK" secondAttribute="bottom" constant="1" id="PRG-Yu-6ec"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="nQn-ai-fDc" secondAttribute="trailing" constant="20" id="SBK-sQ-LzV"/>
+                <constraint firstItem="njb-T0-ufg" firstAttribute="centerY" secondItem="nQn-ai-fDc" secondAttribute="centerY" id="ef9-SD-Prh"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="separatorView" destination="Glt-3E-swK" id="7gE-fj-K2c"/>
+                <outlet property="usePositionButton" destination="nQn-ai-fDc" id="Jpe-5G-CBA"/>
+            </connections>
+            <point key="canvasLocation" x="24.5" y="-237"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="loc_nearest" width="13" height="16"/>
+    </resources>
+</document>

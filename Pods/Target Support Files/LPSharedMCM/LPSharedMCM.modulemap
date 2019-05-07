@@ -1,0 +1,6 @@
+framework module LPSharedMCM {
+  umbrella header "LPSharedMCM-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LPSharedLOC",
+  "version": "0.1.0",
+  "summary": "A short description of LPSharedLOC.",
+  "description": "This Pod is to Be reused in all LaPoste Applications",
+  "homepage": "https://www.laposte.fr",
+  "license": "Private",
+  "authors": "La Poste",
+  "source": {
+    "git": "",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LPSharedLOC/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "2.5.1"
+    ]
+  }
+}

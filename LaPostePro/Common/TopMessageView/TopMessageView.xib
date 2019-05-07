@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="TopMessageView" customModule="LaPostePro" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="80"/>
+            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bwX-kj-4Q7">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="80"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Le poids a été corrigé à la valeur maximale autorisée pour cette destination." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="nkP-Fe-cfs">
+                            <rect key="frame" x="16" y="36" width="343" height="36"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="15"/>
+                            <color key="textColor" red="0.088844962418079376" green="0.11790201812982559" blue="0.26094257831573486" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Service indisponible." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="12" translatesAutoresizingMaskIntoConstraints="NO" id="hzt-VS-4hk">
+                            <rect key="frame" x="108.5" y="8.5" width="158" height="19.5"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="16"/>
+                            <color key="textColor" red="0.088844962420000007" green="0.11790201810000001" blue="0.26094257830000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_message_checked" translatesAutoresizingMaskIntoConstraints="NO" id="fJR-2O-sbf">
+                            <rect key="frame" x="80.5" y="8.5" width="20" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="20" id="r2E-T4-rZd"/>
+                                <constraint firstAttribute="height" constant="20" id="uyF-6I-4TX"/>
+                            </constraints>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" red="0.99320346117019653" green="0.91043877601623535" blue="0.89224821329116821" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstItem="hzt-VS-4hk" firstAttribute="centerX" secondItem="bwX-kj-4Q7" secondAttribute="centerX" id="1Wd-ff-rU8"/>
+                        <constraint firstAttribute="height" constant="80" id="9Ee-o2-vdy"/>
+                        <constraint firstItem="nkP-Fe-cfs" firstAttribute="top" secondItem="hzt-VS-4hk" secondAttribute="bottom" constant="8" id="QbK-Oq-sDE"/>
+                        <constraint firstItem="nkP-Fe-cfs" firstAttribute="centerY" secondItem="bwX-kj-4Q7" secondAttribute="centerY" constant="14" id="WHo-pm-xL2"/>
+                        <constraint firstAttribute="trailing" secondItem="nkP-Fe-cfs" secondAttribute="trailing" constant="16" id="XZr-R3-tks"/>
+                        <constraint firstItem="nkP-Fe-cfs" firstAttribute="leading" secondItem="bwX-kj-4Q7" secondAttribute="leading" constant="16" id="a3L-XV-WF3"/>
+                        <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="hzt-VS-4hk" secondAttribute="trailing" constant="40" id="dzJ-6T-wci"/>
+                        <constraint firstItem="fJR-2O-sbf" firstAttribute="top" secondItem="hzt-VS-4hk" secondAttribute="top" id="e9T-5e-FI6"/>
+                        <constraint firstAttribute="width" constant="375" id="wVo-lx-oZ7"/>
+                        <constraint firstItem="hzt-VS-4hk" firstAttribute="leading" secondItem="fJR-2O-sbf" secondAttribute="trailing" constant="8" id="wmQ-QE-MLk"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="bwX-kj-4Q7" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="4z3-Hy-8YF"/>
+                <constraint firstItem="bwX-kj-4Q7" firstAttribute="bottom" secondItem="vUN-kp-3ea" secondAttribute="bottom" id="NlE-bH-eM6"/>
+                <constraint firstItem="bwX-kj-4Q7" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="Qlb-0Y-MOh"/>
+                <constraint firstItem="bwX-kj-4Q7" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="brm-dl-0El"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="centerMessageConstraint" destination="WHo-pm-xL2" id="gjp-q5-3ow"/>
+                <outlet property="closeImageView" destination="fJR-2O-sbf" id="crU-b7-zmn"/>
+                <outlet property="messageLabel" destination="nkP-Fe-cfs" id="6u2-5K-mRQ"/>
+                <outlet property="titleLabel" destination="hzt-VS-4hk" id="CBy-g8-eKO"/>
+                <outlet property="viewWidthConstaint" destination="wVo-lx-oZ7" id="9y5-yn-WXS"/>
+            </connections>
+            <point key="canvasLocation" x="-102" y="100"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ic_message_checked" width="102.40000152587891" height="102.40000152587891"/>
+    </resources>
+</document>

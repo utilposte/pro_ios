@@ -1,0 +1,4 @@
+library "eboutique.jenkins@master"
+library "jenkins.mobile.pipeline@develop"
+
+compilationProiOSPipeline()
